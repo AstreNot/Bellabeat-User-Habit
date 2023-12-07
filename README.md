@@ -35,7 +35,7 @@ Bellabeat user habit is a project about understanding user habit to provide mark
 		Multiple CSV files that have been cleaned were merged into 2 files, daily activities, and hourly activities. SQL was used in the merging process. 
  		There are 2 options for merging datasets. The first one is joining two or more datasets by using INNER JOIN or LEFT JOIN function. The second one 
    		is joining two or more datasets using LEFT JOIN function in a nested query. In this case, the latter one was chosen because it has much less time 
-     		needed to process the query, thus increasing the preparation phase efficiency. Code used in the pull process can be seen in the appendix.
+     	needed to process the query, thus increasing the preparation phase efficiency. Code used in the pull process can be seen in the appendix.
 
 ## C.	Exploratory Data Analysis (EDA)
 ### a.	Data Visualization for Daily Activities
